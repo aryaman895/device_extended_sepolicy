@@ -1,5 +1,11 @@
 # CameraMotor
 hal_attribute_aosp(lineage_camera_motor)
 
+# LiveDisplay
+hal_attribute_aosp(lineage_livedisplay)
+
 # FOD
 hal_attribute_aosp(lineage_fod)
+
+# Lineage touch
+hal_attribute_aosp(lineage_touch)
